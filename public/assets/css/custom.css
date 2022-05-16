@@ -1,0 +1,215 @@
+ul.nav.navbar-nav {
+    margin: 0;
+}
+#navigation.collapse.navbar-collapse {
+    width: 60%;
+}
+.header_wrap {
+    width: 39%;
+}
+.navbar-expand-lg .navbar-nav > li.dropdown > a {
+    padding: 20px 42px 20px 13px;
+}
+.dropdown-toggle::after {
+	display: none;
+}
+button.btn.btn-block.search {
+    width: 100%;
+}
+.recent-tab {
+    display: flex;
+}
+.recent-tab .nav.nav-tabs a {
+    padding: 4px 17px;
+}
+ul#myTab {
+    padding: 0 0;
+}
+div#navbarSupportedContent {
+    width: 61%;
+    padding-right: 0;
+    float: left;
+}
+.navbar-expand-lg .navbar-nav > li > a {
+    padding: 20px 12px;
+}
+
+textarea.form-control {
+    height: auto;
+}
+
+/*
+===== index-2-page-style ===== */
+.facts_section_bg {
+    position: unset;
+}
+body.index2 .header_wrap {
+    width: 23%;
+}
+body.index2 .navbar-header {
+    width: 16%;
+}
+body.index2 #banner2 .carousel-caption {
+    top: 22%;
+	transform: unset;
+}
+.col-md-6.vc_col.section-padding.about {
+    padding: 0;
+}
+
+
+/*
+===== index-3-page-style ===== */
+.index3 .navbar-header {
+    width: 33%;
+}
+.index3 ul.nav.navbar-nav.ml-auto {
+    margin-top: 30px;
+    z-index: 99999;
+}
+
+
+.index3 button.btn.btn-block {
+    width: 100%;
+}
+.index3 .navbar-expand-lg .navbar-nav > li.dropdown > a {
+    padding: 20px 42px 20px 10px;
+}
+body.index3 button.navbar-toggler {
+    float: right;
+    margin-top: 6%;
+}
+
+
+/*
+===== listing-detail-page-style ===== */
+.listing-detail .listing_detail_wrap .nav-tabs > li a {
+    padding: 0px 65px;
+}
+.listing-detail ul#myTab {
+    background: #eeeeee;
+}
+
+
+/*
+===== dealers-list-page-style ===== */
+div#navbarSupportedContentt {
+    width: 60%;
+}
+.view_profile a.btn.btn-xs.outline {
+    background: transparent !important;
+    color: #fa2837;
+}
+
+
+/*
+===== contact-page-style ===== */
+textarea.form-control.custom-height.white_bg {
+    height: auto;
+}
+
+
+/*
+===== blog-page-style ===== */
+.reply a.btn.btn-primary.btn-xs.outline {
+    color: #fff;
+}
+
+/*
+===== my-vehiclespage-style ===== */
+.vehicle_status a.btn.outline.btn-xs.active-btn {
+    color: #fff;
+    border-color: #fa2837;
+}
+.row.header-row.mobile {
+    display: none;
+}
+.row.header-row.desktop {
+    display: block;
+}
+
+
+/* ==== 6-Aug ==== */
+.our_services.white-text {
+    padding: 0 8%;
+}
+.index2 ul.dropdown-menu {
+    margin-top: 16px;
+}
+ul.dropdown-menu {
+    margin-top: 3px;
+}
+
+@media only screen and (max-width: 479px) {
+/* .recent-tab {
+    width: 65%;
+} */
+.row.header-row.desktop {
+    display: none;
+}
+.row.header-row.mobile {
+    display: block;
+}
+.right {
+    float: left;
+}
+
+div#navbarSupportedContent {
+    width: auto;
+}
+.user_login.mobile ul.dropdown-menu.show {
+    left: -260%;
+}
+.user_login.mobile .user_login > ul > li a {
+    font-size: 22px;
+}
+body.index2 .navbar-header {
+    width: 100%;
+}
+body.index2 .header_wrap {
+    width: 100%;
+}
+.index3 .navbar-header {
+    width: 100%;
+}
+
+.index3 .header_style3 .navbar-expand-lg .navbar-nav > li > a {
+    padding: 12px 0px;
+    text-align: left;
+}
+
+.dealer_logo {
+    width: 100%;
+}
+
+.container.custom-con {
+    padding: 0;
+}
+.row.header-row.padding-remove {
+    padding: 0;
+}
+.header_wrap.margin-remove {
+    margin-left: 0;
+}
+body.index2 #banner2 .carousel-caption {
+    top: 9%;
+}
+body.index2 button.navbar-toggler {
+    float: right;
+}
+.facts_section_bg {
+    top: unset;
+    bottom: 0;
+    height: 186px;
+}
+.listing_detail_header .share_vehicle {
+    display: unset;
+}
+#navbarSupportedContent {
+    float: unset !important;
+}
+}
+
+
+
+
